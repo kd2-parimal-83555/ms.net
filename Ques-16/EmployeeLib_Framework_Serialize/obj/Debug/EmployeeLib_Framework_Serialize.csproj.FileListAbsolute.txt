@@ -1,0 +1,6 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\bin\Debug\EmployeeLib_Framework_Serialize.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\bin\Debug\EmployeeLib_Framework_Serialize.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\obj\Debug\EmployeeLib_Framework_Serialize.csproj.AssemblyReference.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\obj\Debug\EmployeeLib_Framework_Serialize.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\obj\Debug\EmployeeLib_Framework_Serialize.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework_Serialize\obj\Debug\EmployeeLib_Framework_Serialize.pdb

@@ -1,0 +1,15 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\bin\Debug\net6.0\Assignment-18.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\bin\Debug\net6.0\Assignment-18.deps.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\bin\Debug\net6.0\Assignment-18.runtimeconfig.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\bin\Debug\net6.0\Assignment-18.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\bin\Debug\net6.0\Assignment-18.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.GeneratedMSBuildEditorConfig.editorconfig
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.AssemblyInfoInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.AssemblyInfo.cs
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.sourcelink.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\refint\Assignment-18.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\Assignment-18.genruntimeconfig.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-18\obj\Debug\net6.0\ref\Assignment-18.dll

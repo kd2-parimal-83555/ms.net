@@ -1,0 +1,19 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Employee id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmployeeLib_Framework_Serialize/EmployeeLib_Framework_Serialize%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <id>1</id>
+      <salary>15000</salary>
+      <designation id="ref-2">Technical Lead</designation>
+      <dept>IT</dept>
+      <Person_x002B__name id="ref-3" />
+      <Person_x002B__gender>false</Person_x002B__gender>
+      <Person_x002B__birth href="#ref-4" />
+      <Person_x002B__address href="#ref-3" />
+    </a1:Employee>
+    <a1:Date id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmployeeLib_Framework_Serialize/EmployeeLib_Framework_Serialize%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_day>1</_day>
+      <_month>1</_month>
+      <_year>1</_year>
+    </a1:Date>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,10 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\bin\Debug\Assignment-16.exe.config
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\bin\Debug\Assignment-16.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\bin\Debug\Assignment-16.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\bin\Debug\EmployeeLib_Framework.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\bin\Debug\EmployeeLib_Framework.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\obj\Debug\Assignment-16.csproj.AssemblyReference.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\obj\Debug\Assignment-16.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\obj\Debug\Assignme.6BFEE0F5.Up2Date
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\obj\Debug\Assignment-16.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-16\obj\Debug\Assignment-16.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ques8/1.0.0": {
+        "dependencies": {
+          "Ques7": "1.0.0"
+        },
+        "runtime": {
+          "Ques8.dll": {}
+        }
+      },
+      "Ques7/1.0.0": {
+        "runtime": {
+          "Ques7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ques8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ques7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

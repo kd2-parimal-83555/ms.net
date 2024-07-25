@@ -1,0 +1,11 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\Assignment-17.exe.config
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\Assignment-17.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\Assignment-17.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\EmployeeLib_Framework_Serialize.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\SoapFormatter.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\bin\Debug\EmployeeLib_Framework_Serialize.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\obj\Debug\Assignment-17.csproj.AssemblyReference.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\obj\Debug\Assignment-17.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\obj\Debug\Assignme.6BFEE014.Up2Date
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\obj\Debug\Assignment-17.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-17\obj\Debug\Assignment-17.pdb

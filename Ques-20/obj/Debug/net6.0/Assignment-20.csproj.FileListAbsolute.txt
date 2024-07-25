@@ -1,0 +1,15 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.GeneratedMSBuildEditorConfig.editorconfig
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.AssemblyInfoInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.AssemblyInfo.cs
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.sourcelink.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\bin\Debug\net6.0\Assignment-20.exe
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\bin\Debug\net6.0\Assignment-20.deps.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\bin\Debug\net6.0\Assignment-20.runtimeconfig.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\bin\Debug\net6.0\Assignment-20.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\bin\Debug\net6.0\Assignment-20.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\refint\Assignment-20.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\Assignment-20.genruntimeconfig.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\Assignment-20\obj\Debug\net6.0\ref\Assignment-20.dll

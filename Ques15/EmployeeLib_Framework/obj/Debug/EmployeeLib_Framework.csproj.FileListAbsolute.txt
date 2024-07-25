@@ -1,0 +1,6 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\bin\Debug\EmployeeLib_Framework.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\bin\Debug\EmployeeLib_Framework.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\obj\Debug\EmployeeLib_Framework.csproj.AssemblyReference.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\obj\Debug\EmployeeLib_Framework.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\obj\Debug\EmployeeLib_Framework.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib_Framework\obj\Debug\EmployeeLib_Framework.pdb

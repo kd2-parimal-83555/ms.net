@@ -1,0 +1,15 @@
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\bin\Debug\net6.0\Ques7.exe
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\bin\Debug\net6.0\Ques7.deps.json
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\bin\Debug\net6.0\Ques7.runtimeconfig.json
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\bin\Debug\net6.0\Ques7.dll
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\bin\Debug\net6.0\Ques7.pdb
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.GeneratedMSBuildEditorConfig.editorconfig
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.AssemblyInfoInputs.cache
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.AssemblyInfo.cs
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.csproj.CoreCompileInputs.cache
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.sourcelink.json
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.dll
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\refint\Ques7.dll
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.pdb
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\Ques7.genruntimeconfig.cache
+D:\sunbeam\Assignments\DotNet_Assignments\Assignment1\Ques7\obj\Debug\net6.0\ref\Ques7.dll

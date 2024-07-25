@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ques10\Ques10.csproj" />
+    <ProjectReference Include="..\Ques11\Ques11.csproj" />
+    <ProjectReference Include="..\Ques7\Ques7.csproj" />
+    <ProjectReference Include="..\Ques8\Ques8.csproj" />
+    <ProjectReference Include="..\Ques9\Ques9.csproj" />
+  </ItemGroup>
+
+</Project>
